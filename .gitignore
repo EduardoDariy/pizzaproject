@@ -106,7 +106,6 @@ venv.bak/
 .mypy_cache/
 
 .idea/workspace.xml
-templates/
 
 # pycharm
-.idea 
+templates/
