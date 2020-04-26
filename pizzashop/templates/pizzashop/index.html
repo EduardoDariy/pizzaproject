@@ -7,7 +7,6 @@
 {% block content %}
 	<div class="header">
 		<div class="mdl-grid">
-
 			<div class="mdl-cell mdl-cell--12-col">
 				<div class="mdl-grid for-header">
 					<div class="mdl-cell mdl-cell--6-col mdl-cell mdl-cell--4-col-tablet">
@@ -27,7 +26,7 @@
 			{% for item in items %}
 				<div class="mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-cell--4-col-phone">
 					<div class="mdl-card--item mdl-card mdl-shadow--2dp">
-						<a href="{% url 'item' item.id %}">
+						<a href="{% url 'item' item.id %}" class="item__img">
 							<img src="/media/{{ item.image }}" alt="">
 						</a>
 						<div class="mdl-card__title">
@@ -44,13 +43,10 @@
 							<a class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
 								Заказать
 							</a>
-
 						</div>
 					</div>
 				</div>
 			{% endfor %}
-
 		</div>
 	</div>
-
 {% endblock %}
