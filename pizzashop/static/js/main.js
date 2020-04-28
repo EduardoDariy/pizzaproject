@@ -1,3 +1,4 @@
+
 $(document).ready(function () {
     // orderForm
     var orderForm = $('#order-form');
@@ -27,8 +28,18 @@ $(document).ready(function () {
              data: data,
              cache: true,
              success: function (data) {
-                 console.log("OK");
-
+                console.log("OK");
+               
+                console.log(data['items_total_count']);
+                if (data['items_total_count'] || data['items_total_count'] == 0){
+                    $('#basket_total_count').text("("+data['items_total_count']+")");
+                     // $('.basket-items ul').html("");
+                     // $.each(data.products, function(k, v){
+                     //    $('.basket-items ul').append('<li>'+ v.name+', ' + v.nmb + 'шт. ' + 'по ' + v.price_per_item + 'грн  ' +
+                     //        '<a class="delete-item" href="" data-product_id="'+v.id+'">x</a>'+
+                     //        '</li>');
+                     // });
+                 }
              },
              error: function(){
                  console.log("error")
