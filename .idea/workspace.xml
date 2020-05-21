@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93aaf859-4887-4df6-bc46-6ce2b5f45986" name="Default Changelist" comment="" />
+    <list default="true" id="22c9019c-52a0-4c7d-9d3b-fbb506d01fd4" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,30 +25,129 @@
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="Django default" type="feb32156:DbDataSourceImpl" />
       </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Django default" type="feb32156:DbDataSourceImpl" />
+        <item name="django_db: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Django default" type="feb32156:DbDataSourceImpl" />
+        <item name="django_db: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Django default" type="feb32156:DbDataSourceImpl" />
+        <item name="django_db: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
     </expand>
     <select />
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+    <fileColor scope="Non-Project Files (Material Oceanic)" color="2E3C43" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>help</find>
+      <find>доставка</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$APPLICATION_CONFIG_DIR$/pycharm64.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/templates/pizzashop/index.html" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/pizzashop/static/css/material-icons.css" />
+        <option value="$PROJECT_DIR$/pizzashop/static/css/fonts.css" />
+        <option value="$PROJECT_DIR$/pizzashop/static/css/main.css" />
+        <option value="$PROJECT_DIR$/pizzashop/static/css/style3.css" />
+        <option value="$PROJECT_DIR$/pizzashop/static/css/style4.css" />
+        <option value="$PROJECT_DIR$/pizzashop/templates/pizzashop/product.html" />
+        <option value="$PROJECT_DIR$/pizzashop/static/css/style2.css" />
+        <option value="$PROJECT_DIR$/pizzashop/templates/pizzashop/item.html" />
+        <option value="$PROJECT_DIR$/pizzashop/static/js/main.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/runtime.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/pizzaproject/wsgi.py" />
         <option value="$PROJECT_DIR$/pizzashop/models.py" />
+        <option value="$PROJECT_DIR$/pizzashop/urls.py" />
+        <option value="$PROJECT_DIR$/pizzaproject/urls.py" />
+        <option value="$PROJECT_DIR$/pizzashop/static/css/style.css" />
+        <option value="$PROJECT_DIR$/pizzashop/templates/pizzashop/checkout.html" />
+        <option value="$PROJECT_DIR$/pizzashop/static/admin/css/admin.css" />
+        <option value="$PROJECT_DIR$/pizzashop/admin.py" />
+        <option value="$PROJECT_DIR$/pizzaproject/settings.py" />
+        <option value="$PROJECT_DIR$/pizzashop/views.py" />
+        <option value="$PROJECT_DIR$/pizzashop/templates/base-checkout.html" />
+        <option value="$PROJECT_DIR$/pizzashop/templates/base.html" />
+        <option value="$PROJECT_DIR$/pizzashop/templates/pizzashop/index.html" />
       </list>
     </option>
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="697" />
-    <option name="height" value="745" />
+    <option name="x" value="28" />
+    <option name="y" value="88" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -59,24 +159,49 @@
         <subPane>
           <expand>
             <path>
-              <item name="rep" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rep" type="462c0819:PsiDirectoryNode" />
+              <item name="pizzaproject-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pizzaproject-master" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="rep" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rep" type="462c0819:PsiDirectoryNode" />
+              <item name="pizzaproject-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pizzaproject-master" type="462c0819:PsiDirectoryNode" />
               <item name="pizzaproject" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="rep" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rep" type="462c0819:PsiDirectoryNode" />
+              <item name="pizzaproject-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pizzaproject-master" type="462c0819:PsiDirectoryNode" />
               <item name="pizzashop" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="rep" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rep" type="462c0819:PsiDirectoryNode" />
+              <item name="pizzaproject-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pizzaproject-master" type="462c0819:PsiDirectoryNode" />
               <item name="pizzashop" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pizzaproject-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pizzaproject-master" type="462c0819:PsiDirectoryNode" />
+              <item name="pizzashop" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pizzaproject-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pizzaproject-master" type="462c0819:PsiDirectoryNode" />
+              <item name="pizzashop" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pizzaproject-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pizzaproject-master" type="462c0819:PsiDirectoryNode" />
+              <item name="pizzashop" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="pizzashop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pizzaproject-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pizzaproject-master" type="462c0819:PsiDirectoryNode" />
+              <item name="pizzavenv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -85,9 +210,37 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/Dropbox/Develop/Web/django/pizzaproject/templates/base.html" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/templates/base.html&#10;D:/Dropbox/Develop/Web/django/pizzaproject/pizzashop/templates/base.html&#10;D:/Dropbox/Develop/Web/django/pizzaproject/templates/pizzashop/index.html&#10;D:/Dropbox/Develop/Web/django/pizzaproject/pizzashop/templates/pizzashop/index.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="pizzaproject" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="pizzaproject" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dropbox\Develop\Web\django\pizzaproject\pizzashop\static\fonts" />
+      <recent name="D:\Dropbox\Develop\Web\django\pizzaproject\pizzashop\static\js" />
+      <recent name="D:\Dropbox\Develop\Web\django\pizzaproject\pizzashop\static\css" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -101,33 +254,342 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="pizzaproject" type="Python.DjangoServer" factoryName="Django server">
+      <module name="pizzaproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Dropbox\Develop\Web\django\pizzadesktopenv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="93aaf859-4887-4df6-bc46-6ce2b5f45986" name="Default Changelist" comment="" />
-      <created>1576221977830</created>
+      <changelist id="22c9019c-52a0-4c7d-9d3b-fbb506d01fd4" name="Default" comment="" />
+      <created>1510470806071</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1576221977830</updated>
-      <workItem from="1576222001542" duration="181000" />
-      <workItem from="1576225807655" duration="278000" />
-      <workItem from="1576226117752" duration="155000" />
-      <workItem from="1576226303896" duration="17000" />
-      <workItem from="1576226391076" duration="90000" />
-      <workItem from="1576228885748" duration="957000" />
+      <updated>1510470806071</updated>
+      <workItem from="1586845336329" duration="14988000" />
+      <workItem from="1586877641440" duration="2733000" />
+      <workItem from="1586895398035" duration="12197000" />
+      <workItem from="1587197810747" duration="9190000" />
+      <workItem from="1588514120604" duration="693000" />
+      <workItem from="1590058556802" duration="535000" />
+      <workItem from="1590059131032" duration="165000" />
     </task>
+    <task id="LOCAL-00001" summary="changed .gitignore">
+      <created>1510471323225</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1510471323225</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changed .gitignore">
+      <created>1510986571973</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1510986571973</updated>
+    </task>
+    <task id="LOCAL-00003" summary="changed .gitignore">
+      <created>1510992265235</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1510992265235</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Created models">
+      <created>1510992857202</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1510992857202</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added material design lite, created index page">
+      <created>1510996302565</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1510996302565</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add part of russian admin">
+      <created>1511011154633</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1511011154633</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add part of russian for model">
+      <created>1511014525651</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1511014525651</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add russian in db">
+      <created>1511019599455</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1511019599455</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Index page show pizzas">
+      <created>1511029044882</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1511029044882</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Index page view for pizzas">
+      <created>1511082705759</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1511082705760</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Index page view for pizzas">
+      <created>1511082908377</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1511082908377</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Index page add header">
+      <created>1511111706520</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1511111706521</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add django material for admin&#10;$ pip install django-material">
+      <created>1511181696204</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1511181696204</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Blue admin">
+      <created>1511182330269</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1511182330269</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Add item page">
+      <created>1511187718900</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1511187718901</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Test commit">
+      <created>1513197589703</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1513197589703</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Test commit">
+      <created>1513197661545</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1513197661545</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Test commit">
+      <created>1513198120098</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1513198120098</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Test commit">
+      <created>1513198684409</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1513198684409</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Test commit">
+      <created>1513198727090</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1513198727090</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Fix admin">
+      <created>1513248777646</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1513248777646</updated>
+    </task>
+    <task id="LOCAL-00022" summary="commit for heroku">
+      <created>1513272953949</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1513272953949</updated>
+    </task>
+    <task id="LOCAL-00023" summary="commit for heroku">
+      <created>1513273545604</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1513273545604</updated>
+    </task>
+    <task id="LOCAL-00024" summary="commit for heroku">
+      <created>1513273868654</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1513273868654</updated>
+    </task>
+    <task id="LOCAL-00025" summary="commit for heroku">
+      <created>1513274195574</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1513274195574</updated>
+    </task>
+    <task id="LOCAL-00026" summary="commit for heroku">
+      <created>1513275896538</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1513275896538</updated>
+    </task>
+    <task id="LOCAL-00027" summary="commit for heroku">
+      <created>1513277336154</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1513277336154</updated>
+    </task>
+    <task id="LOCAL-00028" summary="commit for heroku">
+      <created>1513277368037</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1513277368037</updated>
+    </task>
+    <task id="LOCAL-00029" summary="commit for heroku">
+      <created>1513277884847</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1513277884847</updated>
+    </task>
+    <task id="LOCAL-00030" summary="commit for heroku">
+      <created>1513277918969</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1513277918969</updated>
+    </task>
+    <task id="LOCAL-00031" summary="commit for heroku">
+      <created>1513278304802</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1513278304802</updated>
+    </task>
+    <task id="LOCAL-00032" summary="commit for heroku">
+      <created>1513278688519</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1513278688519</updated>
+    </task>
+    <task id="LOCAL-00033" summary="commit for heroku">
+      <created>1513278914846</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1513278914846</updated>
+    </task>
+    <task id="LOCAL-00034" summary="commit for heroku">
+      <created>1513286312134</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1513286312135</updated>
+    </task>
+    <task id="LOCAL-00035" summary="commit for heroku">
+      <created>1513286662979</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1513286662979</updated>
+    </task>
+    <task id="LOCAL-00036" summary="commit for heroku">
+      <created>1513286841781</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1513286841781</updated>
+    </task>
+    <task id="LOCAL-00037" summary="commit for heroku">
+      <created>1513286949363</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1513286949363</updated>
+    </task>
+    <task id="LOCAL-00038" summary="commit for heroku">
+      <created>1513287051911</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1513287051911</updated>
+    </task>
+    <task id="LOCAL-00039" summary="commit for heroku">
+      <created>1513411744481</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1513411744481</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1678000" />
+    <option name="totallyTimeSpent" value="40501000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19300912" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17246597" />
+      <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -135,69 +597,262 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007599" side_tool="true" weight="0.32850242" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924013" weight="0.32850242" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3298193" />
+      <window_info anchor="bottom" id="SFDX" order="7" weight="0.3298193" />
+      <window_info anchor="bottom" id="Salesforce" order="8" weight="0.32976446" />
+      <window_info anchor="bottom" id="Log Manager" order="9" />
+      <window_info anchor="bottom" id="Execute Anonymous" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.6043873" visible="true" weight="0.42190015" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32718328" />
+      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.4969743" weight="0.28663447" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.39561272" side_tool="true" visible="true" weight="0.42190015" />
+      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="16" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="PlantUML" order="3" weight="0.32978722" />
-      <window_info anchor="right" id="R Graphics" order="4" weight="0.32978722" />
-      <window_info anchor="right" id="R Packages" order="5" weight="0.32978722" />
-      <window_info anchor="right" id="Database" order="6" weight="0.1762918" />
-      <window_info anchor="right" id="SciView" order="7" weight="0.32978722" />
+      <window_info anchor="right" id="Data View" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.20801815" />
+      <window_info anchor="right" id="SciView" order="5" />
+      <window_info anchor="right" id="PlantUML" order="6" />
+      <window_info anchor="right" id="R Packages" order="7" />
+      <window_info anchor="right" id="R Graphics" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+    <MESSAGE value="changed .gitignore" />
+    <MESSAGE value="Created models" />
+    <MESSAGE value="Added material design lite, created index page" />
+    <MESSAGE value="Add part of russian admin" />
+    <MESSAGE value="Add part of russian for model" />
+    <MESSAGE value="Add russian in db" />
+    <MESSAGE value="Index page show pizzas" />
+    <MESSAGE value="Index page view for pizzas" />
+    <MESSAGE value="Index page add header" />
+    <MESSAGE value="Add django material for admin&#10;$ pip install django-material" />
+    <MESSAGE value="Blue admin" />
+    <MESSAGE value="Add item page" />
+    <MESSAGE value="Test commit" />
+    <MESSAGE value="Fix admin" />
+    <MESSAGE value="commit for heroku" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit for heroku" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/pycharm64.exe.vmoptions">
+    <entry file="file://$PROJECT_DIR$/templates/pizzashop/index.html" />
+    <entry file="file://$PROJECT_DIR$/templates/base.html" />
+    <entry file="file://$PROJECT_DIR$/pizzashop/static/css/material-icons.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        <state relative-caret-position="228">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pizzashop/urls.py">
+    <entry file="file://$PROJECT_DIR$/media/pizzashop/0d230-480-480.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzashop/static/css/fonts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzashop/static/js/material.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzashop/static/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-column="4" />
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzashop/static/js/main (Конфликтующая копия с компьютера Computer 2017-12-13).js" />
+    <entry file="file://$PROJECT_DIR$/pizzashop/static/js/jquery-3.2.1.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="731">
+            <caret line="43" column="2" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runtime.txt" />
+    <entry file="file://$PROJECT_DIR$/Procfile" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="101" column="23" lean-forward="true" selection-start-line="101" selection-start-column="23" selection-end-line="101" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/79df4a45/0d2df6fa-173c-45b4-869b-65bddcfaf5d5/django_db.public.django_migrations" />
+    <entry file="file://$PROJECT_DIR$/../pizzaenvnotebook/Lib/site-packages/django/db/models/base.py" />
+    <entry file="file://$PROJECT_DIR$/pizzaproject/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzashop/static/admin/js/admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzashop/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="182" column="1" selection-start-line="182" selection-start-column="1" selection-end-line="182" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzaproject/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzashop/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzashop/context_processors.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzashop/forms.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzashop/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzashop/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1010">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzashop/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-92">
+          <caret line="101" column="39" selection-start-line="101" selection-start-column="39" selection-end-line="101" selection-end-column="39" />
           <folding>
-            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#0#55#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="-95" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzaproject/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding>
+            <element signature="e#646#687#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzashop/static/admin/css/admin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzashop/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzashop/static/css/material.red-deep_orange.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21097" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzavenv/Lib/site-packages/dj_database_url-0.4.2.dist-info/metadata.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzashop/templates/pizzashop/checkout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1765">
+          <caret line="24" column="74" selection-start-line="24" selection-start-column="74" selection-end-line="24" selection-end-column="74" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pizzashop/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="272">
+          <caret line="25" column="15" lean-forward="true" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pizzashop/models.py">
+    <entry file="file://$PROJECT_DIR$/pizzashop/templates/base-checkout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="65" column="55" selection-start-line="65" selection-start-column="55" selection-end-line="65" selection-end-column="55" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="51" column="63" lean-forward="true" selection-start-line="51" selection-start-column="63" selection-end-line="51" selection-end-column="63" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzashop/templates/pizzashop/thanks.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzashop/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-274">
+          <caret line="30" column="57" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzashop/templates/pizzashop/item.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzashop/templates/pizzashop/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzaproject/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="154" column="37" lean-forward="true" selection-start-line="154" selection-start-column="37" selection-end-line="154" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzavenv/pyvenv.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
